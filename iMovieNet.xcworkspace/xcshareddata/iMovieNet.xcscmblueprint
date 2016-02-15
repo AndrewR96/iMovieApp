@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "D7E94AE36D6C082F69D10A3338A0A8863BFEE209",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "1D504C0D219CECB6BB5A9DE228CCFC1AEAC79D0C" : 0,
+    "D7E94AE36D6C082F69D10A3338A0A8863BFEE209" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "1C9E1FB7-5E9A-4667-BD00-8882CDD32495",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "1D504C0D219CECB6BB5A9DE228CCFC1AEAC79D0C" : "iMovieApp\/iMovieNet\/",
+    "D7E94AE36D6C082F69D10A3338A0A8863BFEE209" : "iMovieApp\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "iMovieNet",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "iMovieNet.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/AndrewR96\/iMovieNet.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1D504C0D219CECB6BB5A9DE228CCFC1AEAC79D0C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/AndrewR96\/iMovieApp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D7E94AE36D6C082F69D10A3338A0A8863BFEE209"
+    }
+  ]
+}
